@@ -1,0 +1,7 @@
+.link {
+    @apply hover:text-blue-400 hover:underline transition-all first:flex-1 text-xl;
+}
+
+.active-link {
+    @apply text-blue-600 font-bold;
+}
